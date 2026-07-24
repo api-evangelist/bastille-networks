@@ -1,8 +1,16 @@
 aid: bastille-networks
 name: Bastille Networks
-description: 'Bastille Networks is a company surfaced as a portfolio company of bessemer-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: cybersecurity. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: 'Bastille Networks is a wireless airspace cybersecurity company that
+  detects, localizes, and continuously monitors radio-frequency emitting devices
+  and threats across 50+ wireless protocols including Bluetooth, BLE, Wi-Fi,
+  cellular, and IoT. Its platform delivers real-time inventory of wireless assets,
+  rogue-device and insider-threat detection, and localization down to a 1-3 meter
+  radius, integrating through an API-led architecture with SIEM, SOAR, XDR, and
+  CAASM tooling such as Splunk, ArcSight, and QRadar. Bastille serves Fortune 100
+  enterprises, government agencies, classified facilities, and data center
+  operators, and is a portfolio company of Bessemer Venture Partners. It exposes
+  integration APIs to enterprise customers but publishes no public developer
+  portal or OpenAPI specification.'
 url: https://raw.githubusercontent.com/api-evangelist/bastille-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,30 @@ x-backed-by:
 - bessemer-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://bastille.net/wp-content/uploads/BAST_Logo_Black_Color_L1R1.png
 tags:
 - Company
 - Cybersecurity
+- Wireless Security
+- RF Detection
+- Wireless Airspace
+- IoT Security
+- OT Security
+- Threat Detection
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +50,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.bastille.net
+  url: https://bastille.net/
+- type: Blog
+  url: https://bastille.net/blog/
+- type: Support
+  url: https://bastille.net/support/
+- type: PrivacyPolicy
+  url: https://bastille.net/privacy-policy/
+- type: DomainSecurity
+  url: security/bastille-networks-domain-security.yml
+- type: LLMsTxt
+  url: llms/bastille-networks-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

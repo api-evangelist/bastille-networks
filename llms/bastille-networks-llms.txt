@@ -1,0 +1,28 @@
+# Bastille Networks
+
+> Bastille Networks is a wireless airspace cybersecurity company that detects, localizes, and monitors radio-frequency emitting devices and threats across 50+ wireless protocols (Bluetooth, BLE, Wi-Fi, cellular, IoT, and more). Its platform gives enterprises, government agencies, and data centers real-time inventory of wireless devices, insider-threat and rogue-device detection, and localization to a 1-3 meter radius, integrating via an API-led architecture with SIEM/SOAR/XDR/CAASM tooling (Splunk, ArcSight, QRadar). Bastille is a portfolio company of Bessemer Venture Partners.
+
+This is an API Evangelist network profile. Bastille exposes integration APIs to enterprise customers (SIEM/SOAR/XDR/ticketing/MDM), but does not publish a public developer portal, OpenAPI specification, or self-serve API documentation. This llms.txt is generated from the API Evangelist catalog record; no machine-readable API artifacts were discoverable on the public surface.
+
+## Company
+- Website: https://bastille.net/
+- Platform: https://bastille.net/platform/
+- OT/IoT Security: https://bastille.net/solutions/ot-iot-security/
+- RF Detection & Monitoring: https://bastille.net/rf-detection-radio-frequency-monitoring-system/
+- Research: https://bastille.net/research/
+- About: https://bastille.net/about/
+
+## Docs
+- Blog: https://bastille.net/blog/
+- News Hub: https://bastille.net/news-hub/
+- Academy / Training: https://academy.bastille.net/
+- Support: https://bastille.net/support/
+- Contact: https://bastille.net/contact-us/
+- Request a Demo: https://bastille.net/demo/
+
+## Security & Legal
+- Responsible Disclosure Policy: https://bastille.net/research/disclosure-policy/ (research@bastille.net, GPG key ID 2E7383A7)
+- Privacy Policy: https://bastille.net/privacy-policy/
+
+## API Evangelist
+- Profile (APIs.json): https://raw.githubusercontent.com/api-evangelist/bastille-networks/refs/heads/main/apis.yml
